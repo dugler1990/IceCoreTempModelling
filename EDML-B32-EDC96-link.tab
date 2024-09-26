@@ -1,0 +1,33 @@
+Ord No	Reconstr depth [m] (Dielectric profiling, DEP)	Reconstr depth [m] (IC-SO4, Ion chromatography)	Reconstr depth [m] (FIC-SO4, Fast ion chromatography)	Reconstr depth [m] (mean from DEP and SO4, Calcul...)	Depth ref [m] (B32)	Depth ref [m] (EDC96)	Age [a AD/CE] (B32)	Age [a AD/CE] (EDML1 time scale, Age model, ...)	Age model [ka] (EDML1 time scale, Age model, ...)	Area (Name of volcano; see Traufett...)	Lab no (see Traufetter et al 2004, ta...)
+1					6.77	3.80	1964			Agung	4
+2	17.19			17.19	16.29	8.35	1884	1884	0.066	Krakatau	8
+3					18.92	9.54	1862				
+4					21.72	11.23	1835				
+5	24.94			24.94	23.80	12.34	1816	1816	0.134	Tambora	10
+6					24.51	12.68	1810				
+7					35.87	18.62	1696				
+8					37.79	19.70	1675				
+9					40.75	21.25	1639				
+10					42.55	22.20	1620				
+11	46.10			46.10	44.35	23.20	1601	1601	0.349	Huaynaputina	17
+12	59.11			59.11	56.80	29.77	1458	1458	0.492	Kuwae	20
+13					66.02	34.55	1342				
+14					70.62	36.96	1284				
+15					71.24	37.23	1277				
+16					71.81	37.64	1269				
+17	75.38			75.38	72.57	38.12	1259	1259	0.691	unknown/El Chichon?	26
+18	77.67			77.67	74.72	39.22	1228	1231	0.719	unidentified	27
+19					77.66	40.79	1190				
+20	82.32			82.32	79.23	41.52	1171	1171	0.779	unknown	29
+21					83.82	44.09	1108			unidentified	31
+22					109.02	57.83	748				
+23	117.74		117.71	117.73	113.37	60.42	686	694	1.256	unidentified	36
+24	125.26	125.22	125.25	125.24	120.60	64.20	579	595	1.355	unidentified	39
+25	127.65	127.64	127.66	127.65	122.95	65.31	543	567	1.383	Rabaul?	40
+26	130.91	130.90	130.94	130.92	125.89	67.20	499	515	1.435	unidentified	41
+27	134.68	134.70	134.69	134.69	129.70	69.15	443	460	1.490	unidentified	42
+28	143.59	143.58	143.60	143.59	138.28	73.58	315	333	1.617	unidentified	45
+29	146.22	146.17	146.27	146.22	140.87	74.88	279	294	1.656	Pelee?	46
+30	148.26	148.22	148.22	148.23	142.86	75.79	251	267	1.683	unidentified	47
+31	150.40	150.37	150.47	150.41	144.91	76.85	222	235	1.715	unidentified	48
+32	152.82	152.81	152.94	152.86	147.30	78.02	187	199	1.751	Taupo	49
