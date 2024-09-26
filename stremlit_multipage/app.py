@@ -25,6 +25,9 @@ st.write("""
     
     4. **Regression**: Perform regression analysis. You can select variables, apply transformations, and view the regression results and plot.
     
+    5. ** XGboost
+    6. ** MLP
+    
 
     """)
 
